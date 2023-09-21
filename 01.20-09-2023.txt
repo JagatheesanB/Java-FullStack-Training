@@ -1,0 +1,9 @@
+1. I learned about basics like CPU,RAM,DISK and CACHE
+2. Learned about networking like TCP,UDP and IP
+3. DNS - Domain Name Server
+4. API - Application Program Interface
+       - rest , grapical,grpc
+         rest   - push,get,post,delete
+5. CDN - Content Delivery Network
+6. And we learned about the client, server and how user communicate with them
+7. Then we created a github acc and linked with git
