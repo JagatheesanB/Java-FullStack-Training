@@ -1,0 +1,4 @@
+1.created a webpage using html and CSS
+2.created a makemytrip card box 
+3.and then created a instagram login page
+4.error detected and rectified it
