@@ -1,0 +1,5 @@
+1. changes in the previous webpage
+2. Then we did all the input tags and some other tags
+3. we learned about the pseudo elements and class
+4. And then flex direction,align items,justify Content,direction
+5. And learned how to build a simple website using CSS
