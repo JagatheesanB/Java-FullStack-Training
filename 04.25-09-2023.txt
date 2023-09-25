@@ -1,0 +1,3 @@
+1.I created a website header with some contents.
+2.And study about css and html properties.
+3.And then created a myntra webpage.
