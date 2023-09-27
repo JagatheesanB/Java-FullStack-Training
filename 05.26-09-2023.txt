@@ -1,0 +1,16 @@
+1. Today  I learned about bootstap and how the bootstap works.
+2. And learnedsome topics in javascript.
+   -operators
+   -varaibles
+   -data types
+   -functions
+   -slides
+   -map reduce filter
+   -promise(reject and resolve)
+   -conditional statements
+   -loop statements
+3. Build website using bootstap by adding:
+   - navbar
+   -cards
+   -table and footer
+
