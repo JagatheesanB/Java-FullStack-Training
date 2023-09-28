@@ -1,0 +1,4 @@
+1. learned about map,reduce,filter.
+2. Learned about how create a todo application.
+3. Then i created a phone book based on todo app and completed upto 50%.
+4. Build a webpage using bootstap.
