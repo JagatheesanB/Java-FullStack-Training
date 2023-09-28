@@ -1,0 +1,10 @@
+1. I learned some js function 
+   -addeventlistener
+   -function
+2. solved simple js programs
+   - emi calculator
+   - cm to m
+   - add 3 numbers
+   - button color change
+   - amount split up
+3. Finally, know about the E-com website creation. 
