@@ -1,0 +1,5 @@
+1. Today i completed the user home page with js.
+2. Then i completed the admin home page with js.
+3. In the progess i made lot of errors.
+4. And learned how to resolve it.
+5. Learnt to debug the mistakes in javascript.

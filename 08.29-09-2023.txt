@@ -1,0 +1,6 @@
+1. Today I saw the visual work on how java script works on a ecommerce website.
+2. In which i learnt how login and sign validation works.
+3. And how the products displayed in home page and admin page.
+4. Then how add to cart function works with js,the add products to home page works.
+5. Then how to make edit and delete function work with js.
+6. Then I made the UI for login and sign up page.

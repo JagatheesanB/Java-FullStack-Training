@@ -1,0 +1,4 @@
+1. Today I completd the edit button in the home and made it to displa it in local storage.
+2. In the process, i made lot of errors.
+3. And i learn to avoid mistakes.
+4. And there is lot of things t learn in js.

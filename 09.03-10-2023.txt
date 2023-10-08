@@ -1,0 +1,5 @@
+1.Today i completd the rest of the UI in ecommerce.
+2.Then i did the login validation for the UI.
+3.Hten i did the sign up validation for the UI
+4.In the progress i learned the common mistakes i did in the js
+5.Still iam leaning js to develop the progress.
