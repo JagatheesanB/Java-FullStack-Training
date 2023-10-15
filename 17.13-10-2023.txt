@@ -1,0 +1,19 @@
+Task to complete:
+
+    *To build an application using angular for the following requirements 
+        1.Cart page 
+        2.Add to cart button
+        3.Products 
+        4.Increase or decrease quantity 
+        5.Nav bar
+
+    *form validation using angular for the following requirements
+        1.Name
+        2.E-mail
+        3.Phone Number
+
+Learned about Todo-services in that :
+        - Edit
+        - Delete 
+
+And then Learned about Routing in angular.
