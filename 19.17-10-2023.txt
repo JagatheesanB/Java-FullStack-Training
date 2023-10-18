@@ -1,0 +1,7 @@
+Angular E-commerce :
+    - created a validation for login.
+    - created a validation for register Page.
+    - loaded the products using fetch method.
+    - And stored User,loggedUser and products in localStorage.
+    - Then add to cart button function is created and it strikes an lots of errors
+       
