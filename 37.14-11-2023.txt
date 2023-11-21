@@ -1,0 +1,42 @@
+Project :
+
+Blog and Content Management System
+=============================================
+project flow:
+
+     1.Model
+       -Role
+       -AppUser
+       -Comment
+       -Post
+ 
+    2.Admin
+    Controller
+       1.AdminCommentcontroller
+       2.adminPostcontroller
+       3.AdminUsercontroller
+    service
+       1.Postservice
+       2.Commentservice
+       3.userservice
+       4.userdetailsserviceimpl
+    Dto(Data transfer object)
+       1.Commentdto
+       2.postdto
+       3.authdto
+    Response
+        1.authresponse
+        2.commentresponse
+        3.postresponse
+        4.userresponse
+ 
+    Request
+        1.commentrequest
+        2.postrequest
+        3.loginRequest
+        4.registerRequest
+ 
+ 
+Controller-->service-->respository-->Dto
+Response(backend to frontend)
+Request(frontend request)

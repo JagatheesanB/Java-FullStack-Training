@@ -1,0 +1,17 @@
+Working in project : 
+
+created user Controller
+ 
+Controller:
+--------------
+Commentcontroller(post,get,delete)
+Postcontroller(get,post,put,delete)
+Usercontroller(get)
+
+Service:
+----------------
+userservice
+postservice
+commentservice
+ 
+check api in postman
