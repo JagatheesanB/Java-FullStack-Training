@@ -1,0 +1,32 @@
+continous of project
+
+Api endpoints:
+
+1.user/register or login
+----------------------------------------------
+post-->http://localhost:8080/api/auth/register
+post-->http://localhost:8080/api/auth/login
+
+2.admin post 
+------------------------------------------------
+get-->http://localhost:8080/api/admin/post/all
+delete-->http://localhost:8080/api/admin/post/id
+
+3.admin comment
+------------------------------------------------
+get-->http://localhost:8080/api/admin/comments/all
+delete-->http://localhost:8080/api/admin/comments/id
+
+4.user post
+------------------------------------------------
+get-->http://localhost:8080/api/ArtWork/all
+post-->http://localhost:8080/api/user/post
+put-->http://localhost:8080/api/user/post/id
+delete-->http://localhost:8080/api/user/post/id
+
+5.user comments
+------------------------------------------------
+get-->http://localhost:8080/api/user/comments/all
+post-->http://localhost:8080/api/user/comments
+put-->http://localhost:8080/api/user/comments/id
+post-->http://localhost:8080/api/user/comments/id

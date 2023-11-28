@@ -1,0 +1,11 @@
+Blog and Content Management project
+
+    *Continued with the integration of back end and 
+        - Integrated all the get methods.
+            ->get post(admin and user side)
+            ->get comment
+            ->get user
+
+        - Integrated all the DELETE methods.
+            -> DELETE comment 
+            -> DELETE post

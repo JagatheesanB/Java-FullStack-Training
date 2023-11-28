@@ -1,0 +1,15 @@
+Blog and Content Management project
+*Started with the front-end part of the project using angular.
+        - Components 
+            1. Login 
+            2. Register 
+            3. Home 
+            4. Admin - User
+            5.       - Posts
+            6.       - Comments
+            7.
+            8. post
+            9. comments
+        - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations 
