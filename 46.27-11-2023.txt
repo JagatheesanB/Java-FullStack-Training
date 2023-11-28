@@ -1,0 +1,8 @@
+Blog and Content Management project :
+------------------------------------
+*Continued with the integration part of back end and front end  
+        - Made few changes in the UI.
+        - add some validation for user side.
+        - added admin navigation to respective user post
+        
+        

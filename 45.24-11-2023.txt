@@ -1,0 +1,14 @@
+Blog and Content Management project
+--------------------------------------
+
+    *Continued with the integration part of back end and front end  
+
+        - Integrated POST methods
+
+            ->  user POST
+ 
+        - Enchanced routes for the component.
+
+        - Stored routing details of the user for stopping page navigation after refresh.
+
+        - Enchanced UI for few pages.

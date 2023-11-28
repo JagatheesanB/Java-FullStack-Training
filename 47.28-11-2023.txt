@@ -1,0 +1,13 @@
+Blog and Content Management project
+------------------------------------
+ 
+Done the tasks:
+    Admin User post view
+    Admin user comment view
+    UI modification
+ 
+Tasks yet to work:
+    - add post
+    - edit post
+    - add comment
+    - view respective post comments
