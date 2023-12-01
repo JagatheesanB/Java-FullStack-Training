@@ -1,0 +1,15 @@
+Blog and Content Management project
+------------------------------------
+
+ topics learned : 
+        - Struct
+        - lazy loading
+        - custom validation
+
+ And final integration and checking of project :
+       
+        - By Adding Post
+        - By Adding Comment
+        - Creating new User
+        - Added ReadMe
+        - recorded the working model video

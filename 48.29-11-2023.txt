@@ -1,0 +1,13 @@
+Blog and Content Management project
+------------------------------------
+
+  *Continued with the back end and front end integration.
+        - Duplicate database dropped.
+        - Loaded original data to the database.
+        - Made UI changes.
+ 
+    *Yet to complete 
+        - Navbar and sidebar enchancement.
+        - UI changes for 
+            -> Admin pages 
+            -> User pages

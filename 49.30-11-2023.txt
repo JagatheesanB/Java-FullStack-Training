@@ -1,0 +1,19 @@
+Blog and Content Management project
+------------------------------------
+
+  user
+  ---------------
+
+  1.changed some project theme
+  2.add caresouel
+  3.changed some ui styles
+  4.new added user 
+  5.add lottie for post when user click post
+ 
+  admin
+  ----------------
+  
+  1.user details added
+  2.post view page,comment view page,user view page
+  
+  
